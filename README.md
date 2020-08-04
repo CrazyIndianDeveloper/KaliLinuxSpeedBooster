@@ -4,11 +4,11 @@
 
 ## Kali Linux Speed Booster
 
-This tool add new sources at \etc\apt\sources.list and remove old once. And Install ` apt-transport-https`   which increase the update,upgrade and downloading speed on kali linux.
+This tool add new sources at `\etc\apt\sources.list` and remove old once. And Install ` apt-transport-https`   which increase the update,upgrade and downloading speed on kali linux.
 
 ## How to download this tool
 
-Just Copy the web page address  and open terminal and type command git clone `address`. It Started downloading.
+Just Copy the web page address `https://github.com/CrazyIndianDeveloper/KaliLinuxSpeedBooster`  and open terminal and type command git clone `address`. It Started downloading.
 
 ### Installation
 
