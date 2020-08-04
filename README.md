@@ -1,7 +1,8 @@
 <p align="left">
 <a href="#"><img title="Made in India" src="https://img.shields.io/badge/Made%20in%20-India-orange"></a>
 </p>
-# Kali Linux Speed Booster
+
+## Kali Linux Speed Booster
 
 This tool add new sources at \etc\apt\sources.list and remove old once. And Install ` apt-transport-https`   which increase the update,upgrade and downloading speed on kali linux.
 
