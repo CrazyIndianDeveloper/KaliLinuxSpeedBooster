@@ -8,7 +8,7 @@ This tool add new sources at `\etc\apt\sources.list` and remove old once. And In
 
 ## How to download this tool
 
-Just Copy the web page address `https://github.com/CrazyIndianDeveloper/KaliLinuxSpeedBooster`  and open terminal and type command git clone `address`. It Started downloading.
+Just Copy the web page address `https://github.com/CrazyIndianDeveloper/KaliLinuxSpeedBooster`  and open terminal and type command `git clone https://github.com/CrazyIndianDeveloper/KaliLinuxSpeedBooster/` It Started downloading.
 
 ### Installation
 
