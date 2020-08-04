@@ -29,6 +29,10 @@ Do you wish to Update (apt-get update) Y/N ?
 
 And if you press N then tool get's close.
 
+## Screenshot
+
+![CrazyIndianDeveloper](https://raw.githubusercontent.com/CrazyIndianDeveloper/KaliLinuxSpeedBooster/master/Screenshot_2020-08-04_04-19-11.png "KaliLinuxSpeedBooster.")
+
 ## Built With
 
 * [Shell](https://www.shellscript.sh/) :-The Shell Script
