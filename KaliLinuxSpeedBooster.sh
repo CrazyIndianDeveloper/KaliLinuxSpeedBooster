@@ -49,7 +49,7 @@ rm sources.list
 rm source.txt
 mv source1.txt sources.list
 sudo chmod +x sources.list
-sudo echo "deb https://http.kali.org/kali kali-rolling main non-free contrib" | sudo tee -a /etc/apt/sources.list
+sudo echo "deb http://http.kali.org/kali kali-rolling main non-free contrib" | sudo tee -a /etc/apt/sources.list
 sudo echo "deb-src http://http.kali.org/kali kali-rolling main non-free contrib" | sudo tee -a /etc/apt/sources.list
 printf " \e[1;31m  New Sources Added!!!!!!\e[0m \n"
 while true; do
